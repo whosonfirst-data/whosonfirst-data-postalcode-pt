@@ -1,0 +1,50 @@
+{
+  "id": 538449067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"PT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191581,
+        101759075,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"25960476"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759075,
+            "postalcode_id":538449067,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":538449067,
+    "wof:lastmodified":1460076779,
+    "wof:name":"1600-301",
+    "wof:parent_id":"101759075",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

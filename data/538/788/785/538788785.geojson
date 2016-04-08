@@ -1,0 +1,50 @@
+{
+  "id": 538788785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"PT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191581,
+        101774901,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"26158999"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101774901,
+            "postalcode_id":538788785,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":538788785,
+    "wof:lastmodified":1460089985,
+    "wof:name":"6360-360",
+    "wof:parent_id":"101774901",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
