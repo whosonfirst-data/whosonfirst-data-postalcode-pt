@@ -1,0 +1,2 @@
+*.geojson text eol=lf
+meta/*-latest.csv filter=lfs diff=lfs merge=lfs -text
